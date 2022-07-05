@@ -1,9 +1,9 @@
-# LB2_M300  :shipit:  
+# LB2_M300 :mortar_board: 
 
 
-## Einleitung :floppy_disk:
+## Einleitung :shipit: 
 
-## Inhalt  :mortar_board:
+## Inhalt :floppy_disk:
 
 #### [Dokumentation erster Container Dienst](Dokumenation/1Container.md "Dokumentation erster Container Dienst")
 
