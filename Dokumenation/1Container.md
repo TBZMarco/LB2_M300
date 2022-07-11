@@ -26,7 +26,7 @@ Nun erstellen wir noch das index.html file:
 
 Dort fügen wir unseren Code ein. 
 
-> (<h1>Willkommen auf unserer Seite</h1>)
+Die Codierung läuft nach HTML 
 
 Jetzt builden wir unser Image
 
