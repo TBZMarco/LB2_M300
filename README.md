@@ -1,15 +1,16 @@
 # LB2_M300 :mortar_board: 
 
-Diese Dokumentation beschreibt das vorgehen in der LB2 im Modul 300 an der TBZ.
+Diese Dokumentation beschreibt das vorgehen in der LB2 im Modul 300 an der TBZ. Auch wird erläutert um was es im Auftrag geht.
 
 ## Einleitung :shipit: 
 
-Wir wollen einen Apache Webserver und eine MySQL Datenbank in 2 Verschiednenen Container erstellen. Für die Maschienen verwnden wir Docker und für die Dokumentation GitHub. Das Ziel ist das diese beiden Contaiener voll funktionsfähig laufen und ihre Aufgabe erfüllen. Das ganze wollen wir in Form einer Dockerumgebung machen, bei der wir selber Images erstelen und ausführen. 
+Wir wollen einen Apache Webserver und eine MySQL Datenbank in 2 Verschiednenen Container erstellen. Für die Maschienen verwnden wir Docker und für die Dokumentation GitHub. Das Ziel ist das diese beiden Contaiener voll funktionsfähig laufen und ihre Aufgabe erfüllen. Das ganze wollen wir in Form einer Dockerumgebung machen, bei der wir selber Images erstelen und ausführen. Nachfolgen wird Docker auch noch ein bisschen erklärt.
+
+Einführung Docker:
+Docker ist eine kostenlose Software, die Anwendungen mithilfe von Containervirtualisierung isoliert. Docker vereinfacht das Deployment von Anwendungen, da Container, die alle notwendigen Pakete enthalten, einfach als Dateien übertragen und installiert werden können. Container sorgen für die Trennung und Verwaltung von Ressourcen, die auf einem Computer verwendet werden. Dazu gehören laut den Entwicklern: Code, Laufzeitmodule, Systemtools, Systembibliotheken.
 
 ## Inhalt :floppy_disk:
-#### [Theorie Docker](Dokumenation/TDocker.md "Theorie Docker")
 
-#### [Theorie Vagrant](Dokumenation/TDocker.md "Theorie Vagrant")
 
 #### [Dokumentation erster Container Dienst](Dokumenation/1Container.md "Dokumentation erster Container Dienst")
 
