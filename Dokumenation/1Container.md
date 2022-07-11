@@ -26,7 +26,7 @@ Nun erstellen wir noch das index.html file:
 
 Dort fügen wir unseren Code ein. 
 
-<h1>Willkommen auf unserer Seite</h1>
+> <h1>Willkommen auf unserer Seite</h1>
 
 Jetzt builden wir unser Image
 
@@ -40,8 +40,6 @@ Nun lassen wir das image laufen mit Docker run.
 
 Jetzt kann über die IP und den Port auf die Webseite zugegriffen werden. 
 
-http://<ipaddress>:8080
-  
   ![grafik](https://user-images.githubusercontent.com/89446428/178357882-db21da7f-7fa2-4db4-a252-096d23e83761.png)
   
   Man könnte Hier auch eine ganze Website kopieren z.B. 20min, jedoch haben wir uns wegen Zeitmangel für einen eifnachen Text entschieden. 
