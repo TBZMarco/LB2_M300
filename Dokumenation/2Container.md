@@ -81,3 +81,10 @@ Dann löschen des Containers:
 
 > sudo docker rm mysql_docker
 
+## Troubleshooting 
+
+Wir konnten zwar den Container selbst starten, jedoch bekamen wir jedes mal wen wir den MySQL Client starten wollten dieser Fehler bekommen. 
+
+![grafik](https://user-images.githubusercontent.com/89446428/178368048-8738f2dc-42c0-45d2-abd0-b8c88b89acf0.png)
+
+Der Pfad wurde nicht gefunden, daher haben wir versucht das mit Docker run zu bearbeiten und den PFad noch einmal anzupassen leider aber erfolglos. 
