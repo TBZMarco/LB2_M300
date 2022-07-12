@@ -55,7 +55,7 @@ Neustart des Containers und Mountain des Volumen
 docker run \
 --detach \
 --name=mysql_docker \
---env="MYSQL_ROOT_PASSWORD=my_password" \
+--env="MYSQL_ROOT_PASSWORD=Passwort_EIngeben" \
 --publish 6603:3306 \
 --volume=/root/docker/mysql_docker/conf.d:/etc/mysql/conf.d \
 --volume=/storage/docker/mysql-data:/var/lib/mysql \
