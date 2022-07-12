@@ -10,7 +10,9 @@ Wir wollen einen Apache Webserver und eine MySQL Datenbank in 2 Verschiednenen C
 Docker ist eine kostenlose Software, die Anwendungen mithilfe von Containervirtualisierung isoliert. Docker vereinfacht das Deployment von Anwendungen, da Container, die alle notwendigen Pakete enthalten, einfach als Dateien übertragen und installiert werden können. Container sorgen für die Trennung und Verwaltung von Ressourcen, die auf einem Computer verwendet werden. Dazu gehören: Code, Laufzeitmodule, Systemtools, Systembibliotheken.
 ![grafik](https://user-images.githubusercontent.com/89446114/178372813-d1caa1b6-31bd-473e-ac6f-02008f56c16e.png)
 
+### Probleme 
 
+Leider hatten wir schon von Beginn an Probleme, da Frau Falco in der ersten Woche Krank war und bei Herr Neuschwander trotz mehfachem Installieren das Wireguard nicht Funktionierte. Da aber normalerweise Frau Falco mehr den Technischen Part übernimmt, wollten wir das in diesem Modul mal anderst machen und uns abwechseln. Aber leider wurde daraus nichts, da Herr Neuschwander das WireGuard nicht zum laufen gebracht hat. 
 
 ## Inhalt :floppy_disk:
 
