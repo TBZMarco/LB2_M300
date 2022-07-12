@@ -87,4 +87,6 @@ Wir konnten zwar den Container selbst starten, jedoch bekamen wir jedes mal wen 
 
 ![grafik](https://user-images.githubusercontent.com/89446428/178368048-8738f2dc-42c0-45d2-abd0-b8c88b89acf0.png)
 
-Der Pfad wurde nicht gefunden, daher haben wir versucht das mit Docker run zu bearbeiten und den PFad noch einmal anzupassen leider aber erfolglos. 
+Das Problem lag darin das wir den Container nicht richitg im Volumen eingebunden hatten, dadurch konnte der vorgegebene Pfad nicht gefunden. Wir haben den Container noch mals gelöscht und die Anlteiung nochmals durchgespielt. Leider hat das nicht geholfen. 
+
+Danach haben wir Versucht es anderst einzubinden, unter einem anderem Pfad, Leider haben wir immer noch die gleiche Fehler Melung bekommen. Wir haben verschiedene Dokumentation und Aneitungen ausprobiert und mussten Schlussendlich aufgeben, da wir keine Zeit mehr hatten. 
